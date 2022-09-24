@@ -3,3 +3,5 @@ This is the first day's job.
 This is the second day's job.
 
 This is the third day's job.
+
+bu github uzerinde yapilan degisiklik
